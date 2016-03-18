@@ -2,7 +2,7 @@
 
 This is the React Todo App.
 
-Start a server with one of the following:
+Start a server with the following:
 
 ### Node
 
