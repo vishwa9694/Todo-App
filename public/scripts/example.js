@@ -158,13 +158,11 @@ TodoApp = React.createClass({
   },
   getActiveTodosCount: function() {
     var left = 0;
-    if(this.state.todos) {
-      this.state.todos.forEach(function(todo){
-        if(!todo.completed) {
-          left++;
-        }
-      });  
-    }
+    this.state.todos.forEach(function(todo){
+      if(!todo.completed) {
+        left++;
+      }
+    });  
     return left;
   },
   render: function() { 
