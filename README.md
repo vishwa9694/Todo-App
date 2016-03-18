@@ -2,14 +2,12 @@
 
 This is the React Todo App.
 
-Start a server with the following:
-
-### Node
+Start a app with the following:
 
 ```sh
-npm install
-node server.js
+1) Clone the git repo.
+2) Open index.html in the browser.
 ```
 
-And visit <http://localhost:3000/>.
+Visit http://vishwa9694.github.io/Todo-App/index.html for hosted app.
 
