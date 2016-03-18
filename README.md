@@ -2,7 +2,7 @@
 
 This is the React Todo App.
 
-Start a app with the following:
+Start the app with the following:
 
 ```sh
 1) Clone the git repo.
