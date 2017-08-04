@@ -1,0 +1,13 @@
+.atdSpellError {
+  background-repeat: repeat-x;
+  background-position: center bottom;
+  background-size: 0.6rem 0.2rem;
+}
+
+.hiddenGrammarError {
+  background-image: url('//sprcdn.sprinklr.com/space/0a8603e5/images/spell-grammar-check/grammar-error.png');
+}
+
+.hiddenSpellError {
+  background-image: url('//sprcdn.sprinklr.com/space/0a8603e5/images/spell-grammar-check/spellcheck-error.png');
+}
